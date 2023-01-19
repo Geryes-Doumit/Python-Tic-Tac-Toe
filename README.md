@@ -2,7 +2,7 @@
 <p align="center">A Python based version of the infamous Tic-Tac-Toe.</p>
 <br>
 
-## Python, tkinter numpy and pyglet
+## Python, tkinter, numpy and pyglet
 <p align="left">You need to be able to run python code with the aforementioned libraries to use this.</p>
 
 ## Playing the game
